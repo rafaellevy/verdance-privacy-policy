@@ -61,7 +61,7 @@ Please note that you can decline a permission or revoke it after you granted it 
 
 ***Verdance Team***
 
-arshavsky.a@gmail.com
+verdancehelp@gmail.com
 
 
 	
