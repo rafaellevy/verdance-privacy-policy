@@ -29,7 +29,7 @@ Purpose: To better communicate with buyers and sellers and establish your own un
 
 - Address
 
-Purpose: In order for other users to find your garden and purchase your produce. Users will not see your exact location on the Verdance map.
+Purpose: In order for other users to see the approximate location of your garden and purchase your produce. Users will not see your exact location on the Verdance map.
    
 #### 2. Personal Information Sharing
 - We do not share any personal information.
