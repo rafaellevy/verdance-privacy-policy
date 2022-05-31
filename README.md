@@ -20,16 +20,16 @@ Hi! We are the developers of Verdance. This privacy policy describes how we proc
 If you grant Verdance permission, we may collect and use personal information from you as follows.
  - Location Services
  
-Purpose: Could we get your location in order to show you your local weather and air quality
+Purpose: If you share your location, Verdance will show you gardens that are in your area.
 Please note that you can decline a permission or revoke it after you granted it in the iOS settings. If you do so, the functionality of WeatherPets may be limited as a result.
 
 - Name
 
-Purpose:
+Purpose: To better communicate with buyers and sellers and establish your own unique profile. 
 
 - Address
 
-Purpose:
+Purpose: In order for other users to find your garden and purchase your produce. 
    
 #### 2. Personal Information Sharing
 - We do not share any personal information.
@@ -49,11 +49,11 @@ Purpose:
 
 #### 7. How Long We Keep Your Personal Information
 
- - We do not collect any personal information EDIT%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ - As long as you have a profile 
 
 #### 8. How We Protect Your Personal Information
 
-- We do not collect any personal information EDIT%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+- Your personal information is encrypted.
 
 #### 9. Policy Changes
 
